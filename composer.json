@@ -1,0 +1,11 @@
+{
+    "name": "user/4dti-2",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    }
+}
